@@ -3,4 +3,4 @@
 #Tutorial menambahkan gambar
 
 - Gambar
-  ![img 1(1.2.png)]
+  ![img 1](1.2.png)
